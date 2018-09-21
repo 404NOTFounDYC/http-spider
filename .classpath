@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/我的下载/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/我的下载/okio-1.15.0.jar"/>
+	<classpathentry kind="lib" path="E:/我的下载/jsoup-1.11.3.jar" sourcepath="E:/我的下载/jsoup-1.11.3-sources.jar"/>
+	<classpathentry kind="lib" path="E:/我的下载/jsoup-1.11.3-sources.jar"/>
+	<classpathentry kind="lib" path="E:/我的下载/gson-0.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/我的下载/gson-2.8.5.jar" sourcepath="E:/我的下载/gson-0.1.1-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
